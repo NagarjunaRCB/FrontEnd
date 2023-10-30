@@ -1,0 +1,32 @@
+*/ h3{
+    color: red;
+}
+h4{
+  color:purple;
+}
+h1,h3{
+    color:aquamarine;
+}
+h2{
+
+    color:brown;
+} */
+
+*{
+    color:blueviolet;
+}
+
+
+div>p{
+    color:green;
+}
+    div>a{
+        color: gray;
+    }
+
+    h1~h6{
+        color: yellow;
+    }
+    h1+h2{
+        color: black;
+    }
